@@ -5,7 +5,7 @@
 - **Problem:** Pascal's Triangle II
 - **Platform:** LeetCode  
 - **Language:** Java  
-- **Solution Link:** [View on LeetCode](https://leetcode.com/problems/pascals-triangle-ii/submissions/2097478572
+- **Solution Link:** [View on LeetCode](https://leetcode.com/problems/pascals-triangle-ii/submissions/2097478572)
 
 #### Code
 ```java
