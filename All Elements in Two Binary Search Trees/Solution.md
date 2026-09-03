@@ -4,7 +4,7 @@
 
 - **Problem:** All Elements in Two Binary Search Trees
 - **Platform:** LeetCode  
-- **Language:** Java  
+- **Language:** C
 - **Solution Link:** [View on LeetCode](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/submissions/2129231196)
 
 #### Code
