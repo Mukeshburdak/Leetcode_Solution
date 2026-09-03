@@ -4,11 +4,11 @@
 
 - **Problem:** Minimum Distance Between BST Nodes
 - **Platform:** LeetCode  
-- **Language:** Java  
+- **Language:** C 
 - **Solution Link:** [View on LeetCode](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/2129207740)
 
 #### Code
-```java
+```c
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
