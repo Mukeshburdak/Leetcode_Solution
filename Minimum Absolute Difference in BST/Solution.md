@@ -4,11 +4,11 @@
 
 - **Problem:** Minimum Absolute Difference in BST
 - **Platform:** LeetCode  
-- **Language:** Java  
+- **Language:** C 
 - **Solution Link:** [View on LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/2129212784)
 
 #### Code
-```java
+```c
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
