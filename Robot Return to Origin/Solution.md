@@ -1,6 +1,6 @@
-## Robot Return to Origin
+## Leetcode Solutions
 
-### Add Binary
+### Robot Return to Origin
 
 - **Problem:** Robot Return to Origin
 - **Platform:** LeetCode  
